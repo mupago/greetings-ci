@@ -1,4 +1,31 @@
-# 0.1.0 (2024-02-06)
+# [0.4.0](https://github.com/mupago/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-06)
+
+
+### Features
+
+* add testing to pipeline ([c4ec3d2](https://github.com/mupago/greetings-ci/commit/c4ec3d2d153a921cfe9f747136b6717ddf157746))
+
+
+
+# [0.3.0](https://github.com/mupago/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-06)
+
+
+### Features
+
+* version artifact ([3cfcdbb](https://github.com/mupago/greetings-ci/commit/3cfcdbb635c696edead0c63fa1efa7eab8f9d3c8))
+
+
+
+# [0.2.0](https://github.com/mupago/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-06)
+
+
+### Features
+
+* upload artifact ([fd1c0f2](https://github.com/mupago/greetings-ci/commit/fd1c0f2871501b3a9cd076512d4bbb9bd3ca91c1))
+
+
+
+# [0.1.0](https://github.com/mupago/greetings-ci/compare/23998e3ee18f2a9cf598b131cf0765811e062cfd...v0.1.0) (2024-02-06)
 
 
 ### Bug Fixes
