@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/mupago/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-06)
+
+
+### Features
+
+* version artifact ([3cfcdbb](https://github.com/mupago/greetings-ci/commit/3cfcdbb635c696edead0c63fa1efa7eab8f9d3c8))
+
+
+
 # [0.2.0](https://github.com/mupago/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-06)
 
 
