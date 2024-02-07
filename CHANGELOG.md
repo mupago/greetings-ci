@@ -1,3 +1,12 @@
+## [0.4.1](https://github.com/mupago/greetings-ci/compare/v0.4.0...v0.4.1) (2024-02-07)
+
+
+### Bug Fixes
+
+* update to greeting for blue ([8dba0a9](https://github.com/mupago/greetings-ci/commit/8dba0a9d58c72ff72865887b3f8dcb1f3a05749e))
+
+
+
 # [0.4.0](https://github.com/mupago/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-06)
 
 
